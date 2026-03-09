@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI challenge: Header image generator for Endo Health’s blog
 
 ## Overview
@@ -129,3 +130,6 @@ This code is provided for the purpose of completing the Endo Health AI
 challenge.  You are free to reuse and adapt it for educational or personal
 projects.  Please ensure compliance with OpenAI’s terms of service when
 generating images.
+=======
+# ImageGenerator
+>>>>>>> 4e05210bae8935b5336b90fa533dcf35dbaf2a08
