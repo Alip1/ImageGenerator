@@ -1,0 +1,4 @@
+openai
+requests
+streamlit        # optional, if you want to pin a specific version
+Pillow           # if you use PIL.Image to open or save images
